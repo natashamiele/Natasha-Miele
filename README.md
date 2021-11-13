@@ -1,14 +1,15 @@
-### Olá, :earth_americas:! Meu nome é Natasha Miele :v: :dizzy: 
-<img align="right" width="300" src="https://cloud.headwayapp.co/changelogs_images/images/big/000/058/077-4cdfda1c1af278fc546b822f2f2355d75d631f46.gif"/>
+## Olá, :earth_americas:! Meu nome é Natasha Miele :v: :dizzy: 
+<img align="right" width="200" src="https://cloud.headwayapp.co/changelogs_images/images/big/000/058/077-4cdfda1c1af278fc546b822f2f2355d75d631f46.gif"/>
 
-Aqui no GitHub eu compartilho alguns dos meus projetos pessoais e colaborativos, além de projetos desenvolvidos ao longo do bootcamp WebDev Full-Stack da Resilia Educação.
+<h5>Aqui no GitHub eu compartilho alguns dos meus projetos pessoais e colaborativos, além de projetos desenvolvidos ao longo do bootcamp WebDev Full-Stack da Resilia Educação.
 
 - 💻 Sou jornalista e developer full-stack
 - 🎓 Estudo desenvolvimento web e concluo o curso em jan/2022
 - 🌱 Estou aprendendo Node.JS
 - 💜 No momento estou estudando back-end, mas amo um front-endzinho
-- 👯 Procuro projetos legais e interessantes para colaborar. Bora codar junto?
+- 👯 Procuro projetos legais e interessantes para colaborar e aprender mais. Bora codar junto?
 
+  </h5>
 
 <h5>Contato</h5>
 <a target='_blank' href="https://www.linkedin.com/in/natashamiele/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a target='_blank' href="mailto:mielenatasha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
