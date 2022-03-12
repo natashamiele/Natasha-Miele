@@ -6,7 +6,7 @@
 - 💻 Sou jornalista e desenvolvedora full-stack
 - 🎓 Web developer formada pela [Resilia Educação](https://www.resilia.com.br/)
 - 🌱 Estou estudando Node.JS e React
-- 💜 Amo um front-endzinho e BD
+- 💜 Amo um front-endzinho, mas também adoro back e BD
 - 👯 Procuro projetos legais e interessantes para colaborar e aprender mais. Bora codar junto?
 
   </h5>
