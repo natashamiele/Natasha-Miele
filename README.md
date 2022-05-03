@@ -3,9 +3,10 @@
 
 <h5>Aqui no GitHub eu compartilho alguns dos meus projetos pessoais e colaborativos, além de projetos desenvolvidos ao longo do bootcamp WebDev Full-Stack da Resilia.
 
-- 💻 Sou jornalista e desenvolvedora full-stack
+- 💻 Sou jornalista e desenvolvedora fullstack
 - 🎓 Web developer formada pela [Resilia Educação](https://www.resilia.com.br/)
-- 🌱 Estou estudando Node.JS, React e Elixir / Phoenix
+- 🎓 Graduanda em Sistemas de Informação pela UNESA
+- 🌱 Estou estudando Elixir / Phoenix, Django e Python
 - 💜 Amo um front-endzinho, mas também adoro back e BD
 - 👯 Procuro projetos legais e interessantes para colaborar e aprender mais. Bora codar junto?
 
