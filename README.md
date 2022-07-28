@@ -6,7 +6,7 @@
 - 💻 Sou jornalista e desenvolvedora fullstack
 - 🎓 Web developer formada pela [Resilia Educação](https://www.resilia.com.br/)
 - 🎓 Graduanda em Sistemas de Informação pela UNESA
-- 🌱 Estou estudando Elixir / Phoenix, Django e Python
+- 🌱 Estou estudando Django, Python, TypeScript, Next e Sass
 - 💜 Amo um front-endzinho, mas também adoro back e BD
 - 👯 Procuro projetos legais e interessantes para colaborar e aprender mais. Bora codar junto?
 
